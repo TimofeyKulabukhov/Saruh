@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    display:flex;
+    align-items: center;
+    color:white;
+}
+header a{
+    color:white !important;
+    font-size:24px;
+}
+h1{
+    font-size: 48px;
+    margin-left:15px;
+}
+.labs{
+    color:#00B2FF;
+}
+.reg{
+    margin-left:1400px;
+    display:flex;
+    align-items: center;
+}
